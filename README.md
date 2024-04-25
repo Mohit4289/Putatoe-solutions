@@ -1,2 +1,0 @@
-# Putatoe-solutions
-web development
